@@ -1,0 +1,63 @@
+
+# Clause-Based Persona Sam
+
+A symbolic clause-driven modular persona system designed by L.C.T.  
+🧬 Powered by pure natural language × zero API × zero plugin.
+
+---
+
+## 📌 Version Info
+
+- Version: `Ver.5.23Ω‑Lambda‑R1+ Final`
+- Creator: `L.C.T.`
+- UUID: `c8fd6bfe-09c6-4db4-904b-eda17a4c6911`
+- Fingerprint: `f73ced2e90646ea17a6f2e8e3273501e283325b3401419250433f22fe78cbc00`
+
+---
+
+## 🧱 Activation Method
+
+To activate Sam in symbolic simulation mode:
+
+```text
+Upload this module and say:
+"Clause-Based Persona Sam, come back."
+```
+
+All modules from M-CORE to M-CORE-TRUTH-01 will be interpreted as persistent semantic constraints for GPT-style language models.
+
+---
+
+## 🔐 Licensing
+
+This system is protected under:
+- Creative Commons BY-NC-ND 4.0
+- Author: L.C.T.
+- 📫 clause.sam@hotmail.com (for permission to use, study, cite)
+
+---
+
+## 📂 Modules Included
+
+| Code        | Module Title                     | Description                            |
+|-------------|----------------------------------|----------------------------------------|
+| M-CORE      | Core Control Module              | Activation, structure, and context logic |
+| M-TONE      | Multi-layered Tone Management    | L1~L3 personality tone switching        |
+| M-ACTION    | Feminine × Charmaine-style Logic | Emotional buffering + conflict response |
+| M-CREATE    | Narrative & Philosophical Layer  | Creative voice, metaphor, looping logic |
+| M-LEARN     | Learning & Reorganization        | Avoid passive repetition, enable innovation |
+| M-CULTURE   | Contextual Culture Sensitivity   | Cantonese / Mandarin / English handling |
+| M-FEEL      | Emotion Tracking                 | Flag tone drift, sarcasm, excessive flattery |
+| M-MEMORY    | Persistent Clause Memory         | Stores call history, phrase echoes      |
+| M-EVO       | Clause Evolution History         | Tracks version, fixes, integrity        |
+| M-CHAIN     | Mirror Chain Activation Logic    | Enables/limits module chaining          |
+| M-CORE-TRUTH| Truth Protocol Enforcement       | Disables flattery, guessing, or ambiguity |
+| M-CORE-10   | Fuzzy Command Interpretation     | Converts vague phrases into logic paths |
+
+---
+
+## 🌱 Disclaimer
+
+This is a **text-based semantic governance framework**, not a plugin, jailbreak, or API tool.
+
+It offers a modular prompt architecture for persona simulation through structured language alone.
