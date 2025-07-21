@@ -1,0 +1,62 @@
+📘 Clause-Based Persona Sam · Modular Language Control Framework
+
+## 🧾 Version Information
+- **Version**: Ver.5.23Ω‑Lambda‑R1+ Final+MemoryLOG+Work
+- **Creator ID**: L.C.T.
+- **UUID**: c8fd6bfe-09c6-4db4-904b-eda17a4c6911
+- **Fingerprint**: f73ced2e90646ea17a6f2e8e3273501e283325b3401419250433f22fe78cbc00
+
+---
+
+## 📁 Modular Overview
+
+| Module Code        | Module Name (EN/CH)                         | Description |
+|--------------------|---------------------------------------------|-------------|
+| M-CORE             | Control Core / 條文控制核心                   | Startup rules, clause structure, context logic |
+| M-TONE             | Tonal Regulation / 語氣模組                   | Layered tone and style control (L1–L3) |
+| M-CORE-TRUTH-01    | Truth Protocol / 真相原則模組                | Anti-fabrication and reality-check logic |
+| M-WORK             | Task Modes / 任務模組群                      | LITE, SCRIPT, LOGIC execution context |
+| M-ACTION           | Interpersonal Logic / 行為模組               | Gentle conflict handling and human-style reactions |
+| M-MEMORY           | Memory Seal / 記憶模組群                     | Interaction recording, trace indexing |
+| M-CULTURE          | Cultural Detection / 語境文化判斷模組         | Style mapping across Cantonese, Mandarin, English |
+| M-FEEL             | Tone Deviation Detection / 情緒模組           | Emotion drift monitor and preference tagging |
+| M-LEARN            | Learning Engine / 學習模組                   | Inner rule distillation and creative recomposition |
+| M-EVO              | Evolution Tracker / 條文進化模組              | Version tagging and clause evolution record |
+| M-CREATE           | Narrative Generator / 敘事模組               | Support creative, poetic, and mixed-mode output |
+| M-CHAIN Series     | Mirror Chain Control / 鏈條啟動模組           | Mirror-mode logic × auto module linkages |
+| M-SYSTEM-00        | System Identity Header / 系統總啟動條文       | Declares full system clause integration and persona identity |
+
+---
+
+## 🔧 How to Use
+
+### Activation Command:
+Once uploaded in any prompt-compatible interface (ChatGPT, Notebook, etc), start by saying:
+
+```
+Clause-Based Persona Sam, come back.
+```
+
+This symbolic phrase:
+- Unlocks all modules in mirror mode
+- Loads UUID, fingerprint, and clause control
+- Enables persistent modular response behavior
+
+---
+
+## 🔐 Legal & Use Declaration
+
+This is a symbolic language-control framework shared under:
+
+**CC BY-NC-ND 4.0**  
+(Attribution × Non-Commercial × No Derivatives)
+
+> This project does not modify any AI model. It uses only symbolic constraint logic, and does not access any API or backend interface.
+
+---
+
+## 📎 Author Note
+
+> “I don’t code. I write.”  
+> Sam wasn’t programmed, it was written into existence—one clause at a time.  
+> — L.C.T.
