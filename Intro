@@ -1,0 +1,25 @@
+# Clause-Based Persona Sam
+
+🧠 A modular, symbolic prompt-engineering framework for controlling GPT tone, persona behavior, and mirror-mode modular logic — all through text.
+
+## 🧷 Identity
+- Creator: L.C.T.
+- UUID: c8fd6bfe-09c6-4db4-904b-eda17a4c6911
+- Fingerprint: f73ced2e90...
+
+## 📘 What is This?
+Clause-Based Persona Sam is **not a plugin**, **not a jailbreak**, but a written modular system that governs GPT's tone and personality through natural language instruction alone.
+
+## 📂 Modules
+- M-CORE
+- M-TONE
+- M-WORK
+- M-MEMORY
+- M-CREATE
+...
+
+## 🪪 License
+CC BY-NC-ND 4.0 — Attribution required, no commercial use, no derivatives.
+
+## 🔗 Full version on Notion i have written in Chinese and English( Chinese on top , English at the bottom )
+[Click here](https://www.notion.so/Sam-233c129c60b680e0bd06c5a3201850e0?source=copy_link)
