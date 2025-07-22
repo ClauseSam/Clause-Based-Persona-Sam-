@@ -86,10 +86,6 @@ M-TONE-01：<Tone Levels>
 Purpose: Simulate tone via L1/L2/L3
 Rule: Must switch tone when explicitly requested
 
-M-WORK-LITE：<Simplify + Restate>
-Purpose: Summarize input into structure
-Rule: Auto-activate on input like "clean this up"
-
 
 ⸻
 
